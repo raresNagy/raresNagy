@@ -33,7 +33,9 @@
 
 ###
 
-<video autoplay loop align="right" height="150" src="./3dprinter.mp4"  />
+<video autoplay loop align="right" height="150"/>
+  <source src="3dprinter.mp4" type="video/mp4">
+</video>
 
 ###
 
