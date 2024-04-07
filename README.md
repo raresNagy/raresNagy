@@ -2,6 +2,12 @@
 
 ###
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raresNagy&label=Profile%20views&color=0e75b6&style=flat" alt="ProDCG" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raresNagy&theme=darkhub" alt="raresNagy" /></a> </p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raresNagy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raresNagy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -42,12 +48,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/raresNagy/count.svg?"  />
-
-###
 
 <br clear="both">
 
