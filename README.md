@@ -31,14 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
 </div>
 
-###
-
-<video autoplay loop align="right" height="150"/>
-  <source src="3dprinter.mp4" type="video/mp4">
-</video>
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/rares.nagy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
