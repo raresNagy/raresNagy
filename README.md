@@ -33,7 +33,7 @@
 
 ###
 
-<img align="right" height="150" src="3dprinter.gif"  />
+<video autoplay loop align="right" height="150" src="./Github Gif - 720WebShareName.mov"  />
 
 ###
 
